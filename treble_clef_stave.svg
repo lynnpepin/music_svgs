@@ -1,0 +1,15 @@
+<svg width="256" height="96" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="84" font-size="7em">𝄞</text>
+
+<line x1="0" x2="256" y1="12" y2="12"  stroke="black" stroke-dasharray="1,5" />
+<line x1="0" x2="256" y1="24" y2="24"  stroke="black" />
+<line x1="0" x2="256" y1="36" y2="36"  stroke="black" />
+<line x1="0" x2="256" y1="48" y2="48"  stroke="black" />
+<line x1="0" x2="256" y1="60" y2="60"  stroke="black" />
+<line x1="0" x2="256" y1="72" y2="72"  stroke="black" />
+<line x1="0" x2="256" y1="84" y2="84"  stroke="black" stroke-dasharray="1,5" />
+
+</svg>
+
+
